@@ -10,7 +10,7 @@ import {LayoutComponent} from "./Layout/layout/layout.component";
 const routes: Routes = [
 
   { path: '', component: LoginComponent  },
-  { path: 'test', component: LayoutComponent  }
+  { path: 'dashboard', component: LayoutComponent  }
 
 
 
