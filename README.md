@@ -1,3 +1,10 @@
+To run project First you need to execeute this command  # npm install 
+then   #  cd src/app
+then  # ng serve
+
+
+
+
 # ManagementDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
