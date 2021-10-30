@@ -8,6 +8,7 @@ import { LoginComponent } from './Pages/Auth/login/login.component';
 import { LayoutComponent } from './Layout/layout/layout.component';
 import { DashboardComponent } from './Pages/dashboard/dashboard.component';
 import { HomeTestComponent } from './Pages/home-test/home-test.component';
+import { WrongRouteComponent } from './Pages/wrong-route/wrong-route.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { HomeTestComponent } from './Pages/home-test/home-test.component';
     LoginComponent,
     LayoutComponent,
     DashboardComponent,
-    HomeTestComponent
+    HomeTestComponent,
+    WrongRouteComponent
   ],
   imports: [
     BrowserModule,
