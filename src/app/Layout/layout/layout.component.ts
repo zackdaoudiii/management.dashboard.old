@@ -31,6 +31,18 @@ export class LayoutComponent implements OnInit {
         {
           "nameSub":"subApp",
           "pathSub":"invoicehahha"
+        },
+        {
+          "nameSub":"subApp",
+          "pathSub":"invoicehahha"
+        },
+        {
+          "nameSub":"subApp",
+          "pathSub":"invoicehahha"
+        },
+        {
+          "nameSub":"subApp",
+          "pathSub":"invoicehahha"
         }
       ]
     }
